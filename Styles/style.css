@@ -252,6 +252,7 @@ nav.sticky ul li a {
   border: 2px solid #efce13;
   border-radius: 12px;
   transition: .5s;
+  cursor: pointer;
 }
 
 .detail-kriteria{
@@ -262,3 +263,32 @@ nav.sticky ul li a {
   gap: 12px;
 }
 /* Price Section End */
+
+/* Kunggulan Start */
+section.keunggulan{
+  background: linear-gradient(180deg, #000000 60%, #ffd700 100%);
+  color: white;
+  min-height: 100vh;
+  padding: 12px 32px;
+  font-family: var(--font-1);
+}
+
+.title_keunggulan{
+  color: white;
+  font-family: var(--font-1);
+  text-align: center;
+  margin-top: 32px;
+}
+
+.title_keunggulan h1{
+  font-size: 32px;
+}
+.title_keunggulan p{
+  font-size: 24px;
+}
+.title_keunggulan span{
+  color: #efce13;
+}
+
+/* Kunggulan End */
+
