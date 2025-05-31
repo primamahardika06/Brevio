@@ -170,7 +170,7 @@ nav.sticky ul li a {
 
 /* Price Section Start */
 .price {
-  background: linear-gradient(20deg, #000000 55%, #ffd700 110%);
+  background: linear-gradient(180deg, #000000 55%, #ffd700 120%);
   color: white;
   min-height: 100vh;
   /* margin-top: 12px; */
@@ -266,7 +266,7 @@ nav.sticky ul li a {
 
 /* Kunggulan Start */
 section.keunggulan{
-  background: linear-gradient(180deg, #000000 60%, #ffd700 100%);
+  background: linear-gradient(180deg, #000000 60%, #ffd700 150%);
   color: white;
   min-height: 100vh;
   padding: 12px 32px;
